@@ -13,11 +13,13 @@ ClienteAPI é uma aplicação de gerenciamento de clientes construída com Djang
 - Remover um cliente
 
 ## Tecnologias Utilizadas
+
 - Django 3.2
 - SQLite
 - Django REST Framework (DRF)
 
 ## Requisitos
+
 - Python 3.8 ou superior
 - pip (gerenciador de pacotes do Python)
 
@@ -60,4 +62,4 @@ python manage.py migrate
 
 ## Autor
 
-- Pericles Matos
+Desenvolvido por [Pericles Matos](https://www.linkedin.com/in/periclesm19/).
