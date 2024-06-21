@@ -23,7 +23,7 @@ ClienteAPI é uma aplicação de gerenciamento de clientes construída com Djang
 
 ## Instalação
 
-### 1.Clone o repositório:
+### 1. Clone o repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/django__api-clientes.git
