@@ -62,4 +62,4 @@ python manage.py migrate
 
 ## Autor
 
-Desenvolvido por [Pericles Matos](https://www.linkedin.com/in/periclesm19/).
+Desenvolvido por [Pericles Matos](https://www.linkedin.com/in/periclesm/).
